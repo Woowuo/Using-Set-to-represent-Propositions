@@ -12,4 +12,4 @@ Any Propositions can be represented by sets.
 ## Using my model to analyze Monty-Hall Problem
 
 A set, or a `Proposition`, could be denoted by an ellipse. If information of a set is KNOWN, it can be denoted by
-[](main/Images/KNOWN)
+[](main/Images/Known.HEIC)
